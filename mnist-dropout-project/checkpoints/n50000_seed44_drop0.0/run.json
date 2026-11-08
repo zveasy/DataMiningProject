@@ -1,0 +1,35 @@
+{
+  "config": {
+    "rates": [
+      0.0,
+      0.2,
+      0.5
+    ],
+    "seeds": [
+      42,
+      43,
+      44
+    ],
+    "split_seed": 42,
+    "sizes": [
+      5000,
+      15000,
+      50000
+    ],
+    "hidden": [
+      512,
+      256
+    ],
+    "epochs": 20,
+    "batch_size": 128,
+    "learning_rate": 0.001,
+    "patience": null
+  },
+  "seed": 44,
+  "rate": 0.0,
+  "size": 50000,
+  "best_epoch": 7,
+  "seconds": 29.168915124959312,
+  "device": "cpu",
+  "torch": "2.11.0"
+}

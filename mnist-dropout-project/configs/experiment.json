@@ -1,0 +1,1 @@
+{"rates":[0.0,0.2,0.5],"seeds":[42,43,44],"split_seed":42,"sizes":[5000,15000,50000],"hidden":[512,256],"epochs":20,"batch_size":128,"learning_rate":0.001,"patience":null}
